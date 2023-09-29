@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I'm a Computer Engineering graduate from Vidyalankar Institute Of Technology, where my journey spanned diverse domains like web/app development, machine learning, and AI. Data manipulation, analysis, and interpretation became my passion. Beyond tech, immersive internships broadened my perspective on real-world challenges. In college, I led a technical committee showcasing leadership. My journey reflects relentless exploration, curiosity, and dedication. Standing at the crossroads, I'm eager to contribute my multifaceted skills to the evolving tech landscape and beyond.
+- 👯 I'm actively seeking opportunities to collaborate on real-time data science projects that offer hands-on experience and foster collaborative learning.
+- 📫 You can reach me on LinkedIn: https://www.linkedin.com/in/ritika-lath-b020481b0/
+
+
+[![An image of @ritikalath30's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ritikalath30)](https://holopin.io/@ritikalath30)
