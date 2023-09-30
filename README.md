@@ -20,3 +20,4 @@ I'm a Computer Engineering graduate from Vidyalankar Institute Of Technology, wh
 
 
 [![An image of @ritikalath30's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ritikalath30)](https://holopin.io/@ritikalath30)
+
